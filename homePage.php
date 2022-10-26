@@ -26,7 +26,7 @@
   <body>
     <section class="header">
         <nav>
-             <a href="index.html"><img src="word.png"></a>
+             <a href="homePage.php"><img src="word.png"></a>
          
              <div class="nav-links" id="navlinks">
                 <ul>   
