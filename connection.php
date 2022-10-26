@@ -3,7 +3,7 @@
     $username = "root";
     $password = "";
     $server =  "localhost";
-    $database = "Registration";
+    $database = "Your Database Name";
 
 
     $connect = mysqli_connect($server,$username,$password,$database);
@@ -15,8 +15,6 @@
 
     }
     
-
-
 
 
 
