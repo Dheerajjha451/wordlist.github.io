@@ -1,3 +1,4 @@
+
 <?php
 
   session_start();
@@ -26,11 +27,12 @@
   <body>
     <section class="header">
         <nav>
-             <a href="homePage.php"><img src="word.png"></a>
+        <a href="homePage.php"><img src="word.png"></a>
          
              <div class="nav-links" id="navlinks">
                 <ul>   
                     <li><a href="homePage.php">HOME</a></li>
+                    <li><a href="Plans.html">Our Future Plans</a></li>
                     <li><a href="./registration/logout.php">Log out </a></li>
                 </ul>
                 
@@ -43,29 +45,29 @@
             <div class="main">
               <h1>How do you want to make your wordlists?</h1>   
 
-<div>
- <label for="">Enter letters to make a wordlist. </label>
+<div class="wordlist">
+ <label for=""><h3>Enter letters to make a wordlist.</h3> </label>
   <input type="radio" name="same" id="radio1">
   <input type="text" id="first">
   
-  <label for="">Enter words seperated by comma to add to a wordlist. </label>
+  <label for=""><h3>Enter words seperated by comma to add to a wordlist.</h3> </label>
   <input type="radio" name="same" id="radio2">
   <input type="text" id="second">
-  <label>Download Popular WordLists</label>
+  <label><h3>Download Popular WordLists</h3></label>
   <a href="https://github.com/danielmiessler/SecLists">Click Here!</a>
 </div>
 
   <div class="btn">
               <button type="submit" id="change" onclick="mainWorking()">
-                         Download WordLists
+                       <font color="#707">Download WordLists</font>  
                         </div>
               </button>
-              
-              <p id="write"><h1><font color="#800080"></h1></p>
-            
-            
-                </section>
+                  
+    <p id="write"><h1><font color="#800080"></h1></p>
+      </section>
   
     
 </body>
 </html>
+
+    
