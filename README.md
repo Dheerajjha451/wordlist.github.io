@@ -1,0 +1,34 @@
+“Wordlist Generator” has been designed to computerize the
+following functions that are performed by the project:
+● Login page:- To login securely into the website.
+● Sign up:- To set your username and password which you
+will use to login.
+● Recover Password:- In case you forget your password,
+this feature will ask you a couple of question. These
+questions will be used to verify if its you, in case you
+forget your password.
+● Forget Password:- To reset your password if you forget
+it.
+● Enter letters to make a wordlist
+
+
+
+It is Created to Enable Ethical Hackers to download their preferable Wordlists.
+As we all know, wordlists play an important part in an ethical
+hacker’s job. Preference makes it easier for the hacker to brute
+force efficiently. Therefore, we have designed this "Wordlist Generator" to overcome this problem.
+
+
+
+Objectives-
+● To let Ethical Hackers download personalized wordlists.
+● A user-friendly GUI (Graphical User Interface) to let
+users easily navigate throughout the web application.
+● A secure login and signup page to keep your space
+Protected.
+● Link to most commonly used wordlists.
+
+Steps For stablishing Wordlist Generator on localhost-
+1. Install XAMPP for php and MYSQL From https://www.apachefriends.org/
+2. Setup PhpMyadmin account.
+3. Make Your own personalised Wordlist.
