@@ -30,7 +30,7 @@ Protected.
 
 Steps For stablishing Wordlist Generator on localhost-
 1. Install XAMPP for php and MYSQL From https://www.apachefriends.org/
-2. ![Screenshot](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/c01e3947-4943-40c7-8cb7-fbbb76c11a0a)
+ ![Screenshot](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/c01e3947-4943-40c7-8cb7-fbbb76c11a0a)
 ![Screenshot ](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/a5d073d5-a3cf-4473-b953-99cbc9e12a1a)
 
 3. Setup PhpMyadmin account.
