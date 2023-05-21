@@ -1,14 +1,19 @@
 “Wordlist Generator” has been designed to computerize the
 following functions that are performed by the project:
+
 ● Login page:- To login securely into the website.
+
 ● Sign up:- To set your username and password which you
 will use to login.
+
 ● Recover Password:- In case you forget your password,
 this feature will ask you a couple of question. These
 questions will be used to verify if its you, in case you
 forget your password.
+
 ● Forget Password:- To reset your password if you forget
 it.
+
 ● Enter letters to make a wordlist
 
 
@@ -37,6 +42,12 @@ Steps For stablishing Wordlist Generator on localhost-
 4. Make Your own personalised Wordlist.
 Project ScreenShot
 ![wordlist](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/d8ee92e8-f229-4269-9814-b03358d1f820)
+
+![Image](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/535a0ccf-26c4-4ffe-81ba-1da62c18029c)
+
+![Image](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/47bca98a-0a87-4d01-bbf4-2f814178b449)
+
+![Image](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/bbb1787f-3da9-402e-8640-2e48c1e3933b)
 
 
 
