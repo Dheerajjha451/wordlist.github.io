@@ -31,11 +31,12 @@
          
              <div class="nav-links" id="navlinks">
                 <ul>   
-                    <li><a href="homePage.php">HOME</a></li>
-                    <li><a href="Plans.html">Our Future Plans</a></li>
-                    <li><a href="./logout.php">Log out </a></li>
+                <li><a href="homePage.php"><i class="fas fa-home"></i> Home</a></li>
+                    <li><a href="Plans.html"><i class="fas fa-info-circle"></i> Our Future Plans</a></li>
+                    <li><a href="./logout.php"><i class="fas fa-sign-out-alt"></i> Log out</a></li>
                 </ul>
-                
+               
+
              </div>
             </nav>
              <div class="text-box">
@@ -58,13 +59,16 @@
 </div>
 
   <div class="btn">
-              <button type="submit" id="change" onclick="mainWorking()">
-                       <font color="#707">Download WordLists</font>  
-                      </button>
-                        </div>
-                  
-    <p id="write"><h1><font color="#800080"></h1></p>
-  </div>
+    <button type="submit" id="change" onclick="mainWorking()">
+        <span class="btn-text">Download WordLists</span>  
+    </button>
+</div>
+
+<div id="write">
+    <h1 class="write-heading">Your Generated Wordlist:</h1>
+    <p class="write-text"></p>
+</div>
+
       </section>
   
 </body>
