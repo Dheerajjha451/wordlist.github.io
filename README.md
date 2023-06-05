@@ -32,22 +32,54 @@ users easily navigate throughout the web application.
 ● A secure login and signup page to keep your space
 Protected.
 ● Link to most commonly used wordlists.
+# XAMPP Server Setup for PHP Login and Signup Page
 
-Steps For stablishing Wordlist Generator on localhost-
-1. Install XAMPP for php and MYSQL From https://www.apachefriends.org/
- ![Screenshot](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/c01e3947-4943-40c7-8cb7-fbbb76c11a0a)
-![Screenshot ](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/a5d073d5-a3cf-4473-b953-99cbc9e12a1a)
+This repository provides a basic setup guide for using XAMPP server with PHP to create a login and signup page. 
 
-3. Setup PhpMyadmin account.
-4. Make Your own personalised Wordlist.
-Project ScreenShot
-![wordlist](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/d8ee92e8-f229-4269-9814-b03358d1f820)
+## Prerequisites
 
-![Image](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/535a0ccf-26c4-4ffe-81ba-1da62c18029c)
+Before you begin, make sure you have the following installed on your system:
 
-![Image](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/47bca98a-0a87-4d01-bbf4-2f814178b449)
+- XAMPP server (Download and install from [here](https://www.apachefriends.org/index.html))
+- Web browser (e.g., Google Chrome, Mozilla Firefox)
 
-![Image](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/bbb1787f-3da9-402e-8640-2e48c1e3933b)
+## Setup Instructions
+
+1. Clone or download this repository to your local machine.
+
+2. Install XAMPP by following the official installation instructions provided by Apache Friends.
+
+3. Start the XAMPP control panel and start the Apache and MySQL modules.
+
+4. Open your web browser and navigate to `http://localhost/phpmyadmin`.
+
+5. Create a new database by clicking on "New" in the left sidebar and providing a name for the database (e.g., `mydb`).
+
+6. Import the database tables by going to the "Import" tab, selecting the SQL file (`database.sql`) provided in this repository, and clicking "Go".
+
+7. Move the repository folder to the XAMPP htdocs directory. The default path for htdocs is `C:\xampp\htdocs` on Windows or `/Applications/XAMPP/htdocs` on macOS.
+
+8. Open your web browser and navigate to `http://localhost/{repository_folder_name}`.
+
+9. You should see the login and signup page. You can now register a new user and login with the registered credentials.
+
+
+
+## Customization
+
+Feel free to modify the code and design to suit your specific needs. You can add additional functionality, enhance the styling, or integrate with a database of your choice.
+
+## Troubleshooting
+
+- If you encounter any issues with the XAMPP server or PHP scripts, ensure that the file paths and configurations are set correctly.
+- Check the error logs in XAMPP for any specific error messages that can help identify the problem.
+![Screenshot 2023-06-05 at 09-18-44 https __localhost](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/0f847f99-c7ee-4356-8eaa-3c7f48f8afa8)
+
+
+![Screenshot 2023-06-05 at 09-18-14 WordLists](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/0afab4c4-1c34-41f9-a0bd-ac9a4cd1b011)
+
+![Screenshot 2023-06-05 at 09-18-28 Our Future Plans](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/a733c71a-a5fe-404c-87cd-c85c7d1975a6)
+
 
 
 
