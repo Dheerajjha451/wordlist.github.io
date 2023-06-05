@@ -41,6 +41,7 @@ Before you begin, make sure you have the following installed on your system:
 
 - XAMPP server (Download and install from [here](https://www.apachefriends.org/index.html))
 - Web browser (e.g., Google Chrome, Mozilla Firefox)
+- Understanding of technologies like PHP,HTML,CSS and Javascript
 
 ## Setup Instructions
 
@@ -72,6 +73,8 @@ Feel free to modify the code and design to suit your specific needs. You can add
 
 - If you encounter any issues with the XAMPP server or PHP scripts, ensure that the file paths and configurations are set correctly.
 - Check the error logs in XAMPP for any specific error messages that can help identify the problem.
+
+###Screenshot
 ![Screenshot 2023-06-05 at 09-18-44 https __localhost](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/0f847f99-c7ee-4356-8eaa-3c7f48f8afa8)
 
 
