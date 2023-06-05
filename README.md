@@ -34,7 +34,6 @@ Protected.
 ● Link to most commonly used wordlists.
 # XAMPP Server Setup for PHP Login and Signup Page
 
-This repository provides a basic setup guide for using XAMPP server with PHP to create a login and signup page. 
 
 ## Prerequisites
 
