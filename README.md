@@ -4,11 +4,11 @@ following functions that are performed by the project:
 ● Login page:- To login securely into the website.
 
 ● Sign up:- To set your username and password which you
-will use to login.
+will use to log in.
 
 ● Recover Password:- In case you forget your password,
-this feature will ask you a couple of question. These
-questions will be used to verify if its you, in case you
+this feature will ask you a couple of questions. These
+questions will be used to verify if it's you, in case you
 forget your password.
 
 ● Forget Password:- To reset your password if you forget
@@ -18,17 +18,12 @@ it.
 
 
 
-It is Created to Enable Ethical Hackers to download their preferable Wordlists.
-As we all know, wordlists play an important part in an ethical
-hacker’s job. Preference makes it easier for the hacker to brute
-force efficiently. Therefore, we have designed this "Wordlist Generator" to overcome this problem.
-
 
 
 Objectives-
-● To let Ethical Hackers download personalized wordlists.
+● To let Ethical Hackers download personalized word lists.
 ● A user-friendly GUI (Graphical User Interface) to let
-users easily navigate throughout the web application.
+users easily navigate through the web application.
 ● A secure login and signup page to keep your space
 Protected.
 ● Link to most commonly used wordlists.
@@ -41,7 +36,7 @@ Before you begin, make sure you have the following installed on your system:
 
 - XAMPP server (Download and install from [here](https://www.apachefriends.org/index.html))
 - Web browser (e.g., Google Chrome, Mozilla Firefox)
-- Understanding of technologies like PHP,HTML,CSS and Javascript
+- Understanding of technologies like PHP,HTML, CSS and Javascript
 
 ## Setup Instructions
 
