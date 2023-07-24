@@ -1,4 +1,7 @@
-# Wordlist Generator
+# Wordlist Generator 
+
+ ![word](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/7e1703a6-f3ef-4278-9aff-43d404a9fd83)
+
 
 The Wordlist Generator is a web application designed to automate various functions related to wordlist generation and management. It provides a user-friendly interface to assist ethical hackers in downloading personalized wordlists. The project includes features such as secure login and signup pages, password recovery, and the ability to generate wordlists based on user input.
 
@@ -56,10 +59,16 @@ Feel free to customize the code and design to suit your specific needs. You can 
 
 
 ## License
-[MIT License]
+[MIT License https://github.com/Dheerajjha451/wordlist.github.io/blob/main/LICENSE.txt]
 
 
-### Screenshot
+### 
+
+https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/402f296a-bf82-4fca-9ef8-f23d7f0c924e
+
+
+
+
 ![Screenshot 2023-06-05 at 09-18-44 https __localhost](https://github.com/Dheerajjha451/wordlist.github.io/assets/106474979/0f847f99-c7ee-4356-8eaa-3c7f48f8afa8)
 
 
